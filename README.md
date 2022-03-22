@@ -16,7 +16,7 @@ When i'm not programming, you'll usually find me at the gym practicing Brazilian
 
 ### Sort Visualizer
 
-"Sort Visualizer" is an inuitive learning tool designed to help users gain a better understanding of how different sorting algorithms work.
+"Sort Visualizer" is an intuitive learning tool designed to help users gain a better understanding of how different sorting algorithms work.
 
 ## Stats
 
