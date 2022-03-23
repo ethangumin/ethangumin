@@ -6,15 +6,15 @@ When i'm not programming, you'll usually find me at the gym practicing Brazilian
 
 ## Projects
 
-### Accord
+### [Accord](https://accord-app-1.herokuapp.com/#/)
 
 "Accord" is a clone of the instant messaging platform, Discord. Using Accord, users are able to create/join servers and can communicate with each other via channels and direct messages.
 
-### whatsGood
+### [whatsGood](https://whats-good-now.herokuapp.com/#/)
 
 "whatsGood" is a platform for users to share lists of books. Users can create their own lists, follow users, and follow other lists.
 
-### Sort Visualizer
+### [Sort Visualizer](https://ethangumin.github.io/sort_visualizer/)
 
 "Sort Visualizer" is an intuitive learning tool designed to help users gain a better understanding of how different sorting algorithms work.
 
